@@ -1,0 +1,57 @@
+{
+  "en": {
+    "emailLabel": "Email",
+    "phoneLabel": "Office",
+    "locationLabel": "Communication Center",
+    "location": "United States",
+    "email": "info@elitespecialsolutions.com",
+    "phone": "+1 (904) 447-0991",
+    "phoneLink": "+19044470991",
+    "whatsappLabel": "WhatsApp",
+    "whatsapp": "+1 (904) 957-4137",
+    "whatsappLink": "19049574137",
+    "social": []
+  },
+  "es": {
+    "emailLabel": "Correo electrónico",
+    "phoneLabel": "Oficina",
+    "locationLabel": "Centro de comunicación",
+    "location": "Estados Unidos",
+    "email": "info@elitespecialsolutions.com",
+    "phone": "+1 (904) 447-0991",
+    "phoneLink": "+19044470991",
+    "whatsappLabel": "WhatsApp",
+    "whatsapp": "+1 (904) 957-4137",
+    "whatsappLink": "19049574137",
+    "social": []
+  },
+
+  "contact": {
+    "companyName": "Elite Special Solutions LLC",
+    "address": "201 Brook Lane Ave, Holland MI, 49423",
+    "phone": "+1 (888) 218-8542",
+    "phoneOffice": "+1 (904) 447-0991",
+    "phoneCorporate": "+1 (888) 218-8542",
+    "whatsApp0": "+1 (904) 957-4137",
+    "whatsApp1": "+1 (904) 847-4177",
+    "email": "info@elitespecialsolutions.com"
+  },
+
+  "socialMedia": {
+    "whatsApp0": "https://wa.me/19049574137",
+    "whatsApp1": "https://wa.me/19048474177",
+    "instagram": "https://www.instagram.com/elitespecialsolutions?igsh=MW01ZWgwejJxMWMzNA==&utm_source=ig_contact_invite",
+    "facebook": "https://www.facebook.com/share/16t3N766zX/",
+    "linkedin": "https://www.linkedin.com/in/elite-special-solutions-6a1901357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "youtube": "https://youtube.com/@elitespecialsolutions?si=dBkk_bxdh8J4gyoH"
+  },
+
+  "externalLinks": {
+    "termsConditions": "https://jahir-16-years.my.canva.site/terms-conditions-elite-special-solutions",
+    "privacyPolicy": "https://jahir-16-years.my.canva.site/privacy-policy-elite-special-solutions",
+    "partnerProgram": "https://jahir-16-years.my.canva.site/elite-ss-partner-program",
+    "bookingURL": "https://outlook.office.com/bookwithme/user/9c93db29f7f145ae95e1d00a0ef94a71@elitespecialsolutions.com/meetingtype/WLP38qmFpEm4ZPRBpk8POw2?anonymous&ep=mLinkFromTile",
+    "referralURL": "https://forms.office.com/r/7d0Zgi2ppj",
+    "serviceAgreementDetails": "https://forms.office.com/r/aBcj6Fb3Bv"
+  }
+}

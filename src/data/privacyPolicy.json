@@ -1,0 +1,168 @@
+{
+  "en": {
+    "eyebrow": "Your information matters",
+    "title": "Privacy Policy",
+    "lastUpdatedLabel": "Last updated",
+    "lastUpdated": "March 2025",
+    "introduction": "Elite Special Solutions (\"we,\" \"our,\" or \"us\") is committed to safeguarding the privacy and confidentiality of the personal and business data entrusted to us. This Privacy Policy explains how we collect, use, store, protect, and share information across our services, platforms, and communications. By engaging with our website, services, or platforms, you acknowledge and agree to the terms outlined below.",
+    "sections": [
+      {
+        "title": "Scope of Policy",
+        "intro": ["This policy applies to:"],
+        "items": ["All visitors to our website and users of our digital platforms.", "Clients engaging in consultancy, automation, or operational support services.", "Team members, contractors, and partners with access to shared systems."],
+        "closing": []
+      },
+      {
+        "title": "Data We Collect",
+        "intro": ["We may collect and process the following categories of personal and business information:"],
+        "items": ["Identification Data: Full name, company name, email address, phone number, and position.", "Operational Data: CRM entries, workflow logs, project details, and lead dispositions.", "Technical Data: IP address, browser type, device identifiers, operating system, and usage logs.", "Financial Data: Payment details, invoices, and transaction records (collected only when necessary).", "Communication Data: Emails, chat transcripts, feedback forms, support tickets, and service requests."],
+        "closing": ["We do not collect sensitive personal data (e.g., biometric, medical, political, or religious information) unless strictly required and with explicit consent."]
+      },
+      {
+        "title": "How We Use Your Data",
+        "intro": ["Your data is used for the following purposes:"],
+        "items": ["Delivering, managing, and improving our services.", "Customizing automation, client engagement, and workflow solutions.", "Communicating updates, proposals, and customer support.", "Processing invoices, payments, and related transactions.", "Ensuring platform security, compliance, and fraud prevention."],
+        "closing": ["We do not sell, trade, or rent personal data to third parties."]
+      },
+      {
+        "title": "Legal Basis for Processing",
+        "intro": ["We process data under the following lawful bases:"],
+        "items": ["Consent: When you provide information voluntarily or subscribe to communications.", "Contractual Necessity: To fulfill service agreements and deliver contracted work.", "Legitimate Interest: To enhance services, maintain security, and prevent misuse.", "Legal Obligation: To comply with laws and regulatory requirements in Nicaragua and internationally."],
+        "closing": []
+      },
+      {
+        "title": "Data Storage & Retention",
+        "intro": [],
+        "items": ["Data is stored securely using encrypted systems and access-controlled platforms.", "Retention periods are limited to the time necessary for service delivery, legal obligations, or support requirements.", "Upon request, we will delete or anonymize your data unless retention is legally mandated."],
+        "closing": []
+      },
+      {
+        "title": "Third-Party Access & Integrations",
+        "intro": ["We may integrate third-party platforms (e.g., Zapier, Google Workspace, Microsoft 365, payment processors) to support service delivery.", "Third-party access is:"],
+        "items": ["Limited strictly to the scope of service.", "Protected under confidentiality and data-processing agreements.", "Monitored for compliance with international privacy standards."],
+        "closing": []
+      },
+      {
+        "title": "Your Rights",
+        "intro": ["You have the right to:"],
+        "items": ["Access the personal data we hold about you.", "Correct inaccurate or incomplete information.", "Request deletion of your personal data.", "Withdraw consent for data processing at any time.", "Object to processing where applicable.", "Request data portability (subject to legal and technical feasibility)."],
+        "closing": ["Requests may be submitted via: info@elitespecialsolutions.com"]
+      },
+      {
+        "title": "Cookies & Tracking Technologies",
+        "intro": ["Our website may use cookies, analytics tools, and similar technologies to:"],
+        "items": ["Improve navigation and user experience.", "Monitor performance and detect issues.", "Analyze visitor behavior and service usage."],
+        "closing": ["You can manage cookie settings through your browser. We do not store personally identifiable data in cookies without prior consent."]
+      },
+      {
+        "title": "Security Measures",
+        "intro": ["We implement strong safeguards to protect your data, including:"],
+        "items": ["End-to-end encryption of data in transit and at rest.", "Role-based access controls and secure authentication.", "Regular system audits and vulnerability testing.", "Encrypted backups and disaster recovery protocols."],
+        "closing": ["In the event of a data breach, affected individuals will be notified within 72 hours, as required by applicable law."]
+      },
+      {
+        "title": "International Data Transfers",
+        "intro": ["Where data is transferred outside Nicaragua, we ensure:"],
+        "items": ["Adequate safeguards through Standard Contractual Clauses (SCCs).", "Compliance with the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and other relevant frameworks.", "Transparency and accountability in all cross-border operations."],
+        "closing": []
+      },
+      {
+        "title": "Policy Updates",
+        "intro": ["We may update this Privacy Policy to reflect changes in technology, laws, or business practices. Updates will be posted on our website, with the effective “Last Updated” date clearly indicated."],
+        "items": [],
+        "closing": []
+      },
+      {
+        "title": "Contact Information",
+        "intro": ["If you have questions, concerns, or requests related to your personal data, please contact us:"],
+        "items": ["Elite Special Solutions", "201 Brook Lane Ave, Holland MI, 49423", "info@elitespecialsolutions.com", "+1 904-447-0991", "www.elitespecialsolutions.com"],
+        "closing": []
+      }
+    ],
+    "backToContact": "Contact us about your privacy",
+    "backToTop": "Back to top"
+  },
+  "es": {
+    "eyebrow": "Tu información es importante",
+    "title": "Aviso de privacidad",
+    "lastUpdatedLabel": "Última actualización",
+    "lastUpdated": "Marzo de 2025",
+    "introduction": "Elite Special Solutions (\"nosotros\", \"nuestro\" o \"la empresa\") se compromete a proteger la privacidad y confidencialidad de los datos personales y empresariales que se nos confían. Este Aviso de privacidad explica cómo recopilamos, utilizamos, almacenamos, protegemos y compartimos información en nuestros servicios, plataformas y comunicaciones. Al utilizar nuestro sitio web, servicios o plataformas, reconoces y aceptas los términos descritos a continuación.",
+    "sections": [
+      {
+        "title": "Alcance del aviso",
+        "intro": ["Este aviso se aplica a:"],
+        "items": ["Todas las personas que visitan nuestro sitio web o utilizan nuestras plataformas digitales.", "Clientes que utilizan servicios de consultoría, automatización o asistencia operativa.", "Integrantes del equipo, contratistas y socios con acceso a sistemas compartidos."],
+        "closing": []
+      },
+      {
+        "title": "Datos que recopilamos",
+        "intro": ["Podemos recopilar y procesar las siguientes categorías de información personal y empresarial:"],
+        "items": ["Datos de identificación: nombre completo, nombre de la empresa, correo electrónico, teléfono y puesto.", "Datos operativos: registros de CRM, bitácoras de flujos de trabajo, detalles de proyectos y estado de prospectos.", "Datos técnicos: dirección IP, tipo de navegador, identificadores del dispositivo, sistema operativo y registros de uso.", "Datos financieros: detalles de pagos, facturas y registros de transacciones (solo cuando sea necesario).", "Datos de comunicación: correos electrónicos, conversaciones de chat, formularios de comentarios, solicitudes de soporte y de servicio."],
+        "closing": ["No recopilamos datos personales sensibles (por ejemplo, información biométrica, médica, política o religiosa), salvo que sea estrictamente necesario y contemos con tu consentimiento explícito."]
+      },
+      {
+        "title": "Cómo utilizamos tus datos",
+        "intro": ["Utilizamos tus datos para:"],
+        "items": ["Prestar, gestionar y mejorar nuestros servicios.", "Personalizar soluciones de automatización, atención al cliente y flujos de trabajo.", "Comunicar actualizaciones, propuestas y brindar atención al cliente.", "Procesar facturas, pagos y transacciones relacionadas.", "Garantizar la seguridad de las plataformas, el cumplimiento y la prevención del fraude."],
+        "closing": ["No vendemos, intercambiamos ni alquilamos datos personales a terceros."]
+      },
+      {
+        "title": "Bases legales para el tratamiento",
+        "intro": ["Tratamos los datos conforme a las siguientes bases legales:"],
+        "items": ["Consentimiento: cuando proporcionas información voluntariamente o te suscribes a nuestras comunicaciones.", "Necesidad contractual: para cumplir acuerdos de servicio y prestar el trabajo contratado.", "Interés legítimo: para mejorar los servicios, mantener la seguridad y prevenir usos indebidos.", "Obligación legal: para cumplir las leyes y requisitos normativos de Nicaragua y de otros países."],
+        "closing": []
+      },
+      {
+        "title": "Almacenamiento y conservación de datos",
+        "intro": [],
+        "items": ["Almacenamos los datos de forma segura mediante sistemas cifrados y plataformas con acceso controlado.", "Conservamos los datos únicamente durante el tiempo necesario para prestar los servicios, cumplir obligaciones legales o atender solicitudes de soporte.", "Si lo solicitas, eliminaremos o anonimizaremos tus datos, salvo que la ley exija conservarlos."],
+        "closing": []
+      },
+      {
+        "title": "Acceso de terceros e integraciones",
+        "intro": ["Podemos integrar plataformas de terceros (por ejemplo, Zapier, Google Workspace, Microsoft 365 y procesadores de pagos) para prestar nuestros servicios.", "El acceso de terceros:"],
+        "items": ["Se limita estrictamente al alcance del servicio.", "Está protegido mediante acuerdos de confidencialidad y tratamiento de datos.", "Se supervisa para verificar el cumplimiento de estándares internacionales de privacidad."],
+        "closing": []
+      },
+      {
+        "title": "Tus derechos",
+        "intro": ["Tienes derecho a:"],
+        "items": ["Acceder a los datos personales que tenemos sobre ti.", "Corregir información inexacta o incompleta.", "Solicitar la eliminación de tus datos personales.", "Retirar tu consentimiento para el tratamiento de datos en cualquier momento.", "Oponerte al tratamiento cuando corresponda.", "Solicitar la portabilidad de tus datos, sujeta a viabilidad legal y técnica."],
+        "closing": ["Puedes enviar tus solicitudes a: info@elitespecialsolutions.com"]
+      },
+      {
+        "title": "Cookies y tecnologías de seguimiento",
+        "intro": ["Nuestro sitio web puede utilizar cookies, herramientas de análisis y tecnologías similares para:"],
+        "items": ["Mejorar la navegación y la experiencia de uso.", "Supervisar el rendimiento y detectar problemas.", "Analizar el comportamiento de las visitas y el uso de los servicios."],
+        "closing": ["Puedes gestionar las cookies desde la configuración de tu navegador. No almacenamos datos que te identifiquen personalmente en cookies sin tu consentimiento previo."]
+      },
+      {
+        "title": "Medidas de seguridad",
+        "intro": ["Implementamos medidas sólidas para proteger tus datos, entre ellas:"],
+        "items": ["Cifrado de extremo a extremo para los datos en tránsito y almacenados.", "Controles de acceso según el rol y autenticación segura.", "Auditorías periódicas de los sistemas y pruebas de vulnerabilidad.", "Copias de seguridad cifradas y protocolos de recuperación ante desastres."],
+        "closing": ["En caso de una brecha de datos, notificaremos a las personas afectadas dentro de las 72 horas, según lo requiera la legislación aplicable."]
+      },
+      {
+        "title": "Transferencias internacionales de datos",
+        "intro": ["Cuando los datos se transfieran fuera de Nicaragua, garantizamos:"],
+        "items": ["Salvaguardas adecuadas mediante cláusulas contractuales tipo (SCC).", "Cumplimiento del Reglamento General de Protección de Datos (RGPD), la Ley de Privacidad del Consumidor de California (CCPA) y otros marcos pertinentes.", "Transparencia y responsabilidad en todas las operaciones transfronterizas."],
+        "closing": []
+      },
+      {
+        "title": "Actualizaciones del aviso",
+        "intro": ["Podemos actualizar este Aviso de privacidad para reflejar cambios en la tecnología, las leyes o nuestras prácticas comerciales. Publicaremos las actualizaciones en nuestro sitio web e indicaremos claramente la fecha de última actualización."],
+        "items": [],
+        "closing": []
+      },
+      {
+        "title": "Información de contacto",
+        "intro": ["Si tienes preguntas, inquietudes o solicitudes sobre tus datos personales, contáctanos:"],
+        "items": ["Elite Special Solutions", "201 Brook Lane Ave, Holland MI, 49423", "info@elitespecialsolutions.com", "+1 904-447-0991", "www.elitespecialsolutions.com"],
+        "closing": []
+      }
+    ],
+    "backToContact": "Contáctanos sobre tu privacidad",
+    "backToTop": "Volver al inicio"
+  }
+}
