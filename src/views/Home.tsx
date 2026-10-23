@@ -23,6 +23,7 @@ export default function Home() {
   return (
     <>
       <PageHero
+      eyebrow={""}
         title={page.title}
         description={page.description}
         backgroundImage={siteImages.hero[0]}
