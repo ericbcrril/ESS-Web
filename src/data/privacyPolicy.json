@@ -40,7 +40,7 @@
         "title": "Third-Party Access & Integrations",
         "intro": ["We may integrate third-party platforms (e.g., Zapier, Google Workspace, Microsoft 365, payment processors) to support service delivery.", "Third-party access is:"],
         "items": ["Limited strictly to the scope of service.", "Protected under confidentiality and data-processing agreements.", "Monitored for compliance with international privacy standards."],
-        "closing": []
+        "closing": ["We do not sell or share mobile information or SMS opt‑in consent with third parties for marketing or promotional purposes."]
       },
       {
         "title": "Your Rights",
@@ -123,7 +123,7 @@
         "title": "Acceso de terceros e integraciones",
         "intro": ["Podemos integrar plataformas de terceros (por ejemplo, Zapier, Google Workspace, Microsoft 365 y procesadores de pagos) para prestar nuestros servicios.", "El acceso de terceros:"],
         "items": ["Se limita estrictamente al alcance del servicio.", "Está protegido mediante acuerdos de confidencialidad y tratamiento de datos.", "Se supervisa para verificar el cumplimiento de estándares internacionales de privacidad."],
-        "closing": []
+        "closing": ["No vendemos ni compartimos información móvil ni el consentimiento de suscripción a SMS con terceros para fines de marketing o promoción."]
       },
       {
         "title": "Tus derechos",
