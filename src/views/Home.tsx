@@ -62,7 +62,7 @@ export default function Home() {
                 <article key={title} className={`min-h-28 rounded-xl border p-5 transition hover:-translate-y-0.5 hover:shadow-md ${index === 4 ? 'border-ess bg-ess text-white' : 'border-slate-100 bg-white text-slate-900'}`}>
                   <span className={`mb-3 inline-flex h-9 w-9 items-center justify-center rounded-lg ${index === 4 ? 'bg-white/15 text-white' : 'bg-sky-50 text-ess'}`}><Icon size={17} /></span>
                   <h3 className="text-xs font-bold">{title}</h3>
-                  <p className={`mt-1.5 text-[10px] leading-4 ${index === 4 ? 'text-sky-50' : 'text-slate-600'}`}>{description}</p>
+                  <p className={`mt-1.5 text-[13px] leading-4 ${index === 4 ? 'text-sky-50' : 'text-slate-600'}`}>{description}</p>
                 </article>
               )
             })}

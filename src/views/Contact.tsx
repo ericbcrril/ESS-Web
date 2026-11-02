@@ -1,7 +1,9 @@
 import { type FormEvent } from "react";
 import {
+  ArrowUpRight,
   CalendarDays,
   Clock3,
+  FileText,
   Headset,
   Mail,
   MessageCircle,
@@ -118,15 +120,28 @@ export default function Contact() {
                 ))}
               </ul>
 
-              <div className="mt-6 rounded-lg border border-slate-100 bg-[#f8fafc] px-4 py-3 text-[10px] leading-5 text-slate-600">
-                {page.agreementPrompt}{" "}
+              <div className="mt-6 rounded-xl border border-sky-100 bg-gradient-to-br from-sky-50 to-white p-4 sm:p-5">
+                <div className="flex items-start gap-3">
+                  <span className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-white text-ess shadow-sm ring-1 ring-sky-100">
+                    <FileText size={18} />
+                  </span>
+                  <div>
+                    <h3 className="text-sm font-bold text-slate-900">
+                      {page.agreementPrompt}
+                    </h3>
+                    <p className="mt-1 text-xs leading-5 text-slate-600">
+                      {page.agreementDescription}
+                    </p>
+                  </div>
+                </div>
                 <a
                   href={contact.externalLinks.serviceAgreementDetails}
                   target="_blank"
                   rel="noreferrer"
-                  className="font-semibold text-ess underline underline-offset-2"
+                  className="mt-4 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-ess px-4 py-2.5 text-xs font-bold text-white shadow-sm transition hover:bg-sky-700 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ess focus-visible:ring-offset-2"
                 >
                   {page.agreementLink}
+                  <ArrowUpRight size={15} aria-hidden="true" />
                 </a>
               </div>
               <div className="mt-5 grid gap-2 sm:grid-cols-2">
